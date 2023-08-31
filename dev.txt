@@ -1,1 +1,4 @@
+<<<<<<< Updated upstream
 some ne info
+dsadasdinfo
+>>>>>>> Stashed changes
